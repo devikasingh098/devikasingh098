@@ -19,12 +19,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=devikasingh098&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/devikasingh098?label=Followers&style=flat-square&color=334155&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Practical%20Software%20%26%20AI-1e293b?style=flat-square" alt="Focus" />
-</p>
-
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%80%A2+Database+Systems+%E2%80%A2+Clean+Code;Full-Stack+Web+Development+%E2%80%A2+Responsive+UI;AI-Powered+Applications+%E2%80%A2+Hackathon+Builder;Building+practical+software+through+hands-on+projects" alt="Dynamic Focus Animation" />
@@ -101,29 +95,11 @@ Let's Connect       : linkedin.com/in/devika-singh-7688592bb
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devikasingh098&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8" alt="Devika's GitHub Stats" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikasingh098&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=60a5fa&text_color=94a3b8" alt="Top Languages" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devikasingh098&theme=tokyonight&hide_border=true&background=0B0F19&ring=38BDF8&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak Stats" />
-</p>
-
-</div>
-
----
-
 ## 💡 Developer Mindset
 
-- **Strong Fundamentals First** - Prioritizing clean architecture, object-oriented principles in Java, and structured data design before introducing complexity.
-- **Build to Learn** - The most effective way to master engineering is through building practical projects, debugging real issues, and deploying working systems.
-- **Practical AI Adoption** - Integrating AI capabilities where they create genuine utility and enhance user workflows.
+- **Strong Fundamentals First** — Prioritizing clean architecture, object-oriented principles in Java, and structured data design before introducing complexity.
+- **Build to Learn** — The most effective way to master engineering is through building practical projects, debugging real issues, and deploying working systems.
+- **Practical AI Adoption** — Integrating AI capabilities where they create genuine utility and enhance user workflows.
 
 ---
 
