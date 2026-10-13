@@ -35,15 +35,15 @@
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Devika Singh**! I am a developer passionate about building practical software applications, exploring AI-powered tools, and expanding my engineering skills through hands-on projects and hackathons.
+Hi, I'm **Devika Singh**! I am a developer passionate about building practical software applications, exploring AI-powered tools, and expanding my engineering skills through hands-on projects and hackathons.
 
-My core development foundation centers on **Java** and **SQL**, paired with frontend web development using **HTML5 and CSS3**. I love taking ideas from concept to functional reality—whether designing responsive e-commerce storefronts, architecting dual-role authentication workflows, or developing computer-vision-assisted inspection agents for hackathon challenges.
+My core development foundation centers on **Java** and **SQL**, paired with frontend web development using **HTML5 and CSS3**. I love taking ideas from concept to functional reality — whether designing responsive e-commerce storefronts, architecting dual-role authentication workflows, or developing computer-vision-assisted inspection agents for hackathon challenges.
 
 ```txt
 Primary Focus       : Java Development, Database Systems & Web Solutions
 Core Skills         : Java, SQL, HTML5, CSS3
 Currently Exploring : AI-Powered Applications, Vision Models & Intelligent Agents
-Hands-on Projects   : Clothing Store, Pack Manager AI Agent, NOVA Auth Dashboard
+Hands-on Projects   : Clothing Store, Pack Manager AI Agent, InterviewAI, NOVA Auth Dashboard
 Looking for         : Software Engineering Internships, Hackathons & Collaborations
 Let's Connect       : linkedin.com/in/devika-singh-7688592bb
 ```
@@ -81,8 +81,8 @@ Let's Connect       : linkedin.com/in/devika-singh-7688592bb
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[Devika's Clothing Store](https://github.com/devikasingh098/Clothing-Store)** | E-commerce clothing website featuring a structured product catalog, responsive homepage showcase, interactive shopping cart with live total calculations, and item removal. | `HTML5` `CSS3` `JavaScript` `Bootstrap 5` | [📁 Repository](https://github.com/devikasingh098/Clothing-Store) |
-| **[Pack Manager AI Agent](https://github.com/devikasingh098/cube26-pck-0085-devikasingh098)** | AI-assisted outbound package inspection system built for CUBE Buildathon 2026. Automates carton verification using vision AI, applies deterministic policy checks (`SEAL` / `STOP & FIX`), and creates SHA-256 evidence audit records. | `Python` `Vision AI` `REST APIs` `HTML5` | [📁 Repository](https://github.com/devikasingh098/cube26-pck-0085-devikasingh098) |
-| **[InterviewAI – Voice Interview Coach](https://github.com/devikasingh098/InterviewAi)** | AI-powered conversational interview coach offering mock interview simulations, real-time voice interaction, live speech transcription, and detailed post-interview performance analysis. | `TypeScript` `Web Audio API` `Speech Recognition` | [📁 Repository](https://github.com/devikasingh098/InterviewAi) |
+| **[Pack Manager AI Agent](https://github.com/devikasingh098/cube26-pck-0085-devikasingh098)** | AI-assisted outbound package inspection system built for CUBE Buildathon 2026. Automates carton verification using vision AI, applies deterministic policy checks (`SEAL` / `STOP & FIX`), and creates SHA-256 evidence audit records. | `Python` `Vision AI` `REST APIs` `HTML5` | [📁 Repository](https://github.com/devikasingh098/cube26-pck-0085-devikasingh098) · [🌐 Live Demo](https://cube26-pck-0085-devikasingh098.vercel.app/) |
+| **[InterviewAI – Voice Interview Coach](https://github.com/devikasingh098/InterviewAi)** | AI-powered conversational interview coach offering mock interview simulations, real-time voice interaction, live speech transcription, and detailed post-interview performance analysis. | `TypeScript` `Web Audio API` `Speech Recognition` | [📁 Repository](https://github.com/devikasingh098/InterviewAi) · [🌐 Live Demo](https://interview-ai-five-beta.vercel.app/) |
 | **[NOVA Authentication & Dashboard](https://github.com/devikasingh098/login-page)** | Modern responsive authentication portal featuring dual login modes (User & Administrator), client-side validation, password toggle controls, and an administrative dashboard interface. | `HTML5` `CSS3` `JavaScript` | [📁 Repository](https://github.com/devikasingh098/login-page) · [🌐 Live Demo](https://devikasingh098.github.io/login-page/) |
 | **[Personal Developer Portfolio](https://github.com/devikasingh098/devika-portfolio)** | High-performance developer portfolio showcasing software projects, verified technical skills, hackathon builds, and interactive UI components. | `TypeScript` `CSS3` `HTML5` | [📁 Repository](https://github.com/devikasingh098/devika-portfolio) · [🌐 Live Demo](https://devika-portfolio-liard.vercel.app/) |
 
@@ -93,7 +93,7 @@ Let's Connect       : linkedin.com/in/devika-singh-7688592bb
 - **CUBE Buildathon 2026 — Round 2 Builder**  
   Engineered the **Pack Manager AI Agent** (`cube26-pck-0085-devikasingh098`), an automated visual inspection and quality control tool for package sealing stations leveraging vision AI models and cryptographic audit trails.
 - **Production Web Deployments**  
-  Built and deployed live production web applications, including the **NOVA Authentication Portal** hosted via GitHub Pages and the **Developer Portfolio** hosted on Vercel.
+  Built and deployed live production web applications across **GitHub Pages** (NOVA Authentication Portal) and **Vercel** (Developer Portfolio, InterviewAI, Pack Manager).
 - **Hands-on Full-Stack & Systems Development**  
   Continuously designing and publishing end-to-end projects focused on core Java programming, relational databases (SQL), responsive client interfaces, and applied AI tooling.
 
